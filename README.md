@@ -1,2 +1,2 @@
 # Salary-Calculator
-Patika.dev-ebebek Java&QA Practicum First Case
+Patika.dev-ebebek Java & QA Practicum First Case
